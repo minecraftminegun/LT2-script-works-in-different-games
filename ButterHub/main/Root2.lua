@@ -31,4 +31,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/Butter/m
 elseif game.PlaceId == 15740639668 then -- (Winter!) Lumber Tycoon Modded!
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/Butter/main/lt2'))("")
 elseif game.PlaceId == 8767905011 then -- 🌳 Lumber Tycoon 3 [Modded]
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Butterisgood/Butter/main/lt2'))("")
 end
